@@ -263,6 +263,11 @@ OTUフレームワークは、空想的な物理に依存しません。
 - [Direct Planetary Cooling](https://github.com/InchaComisho/Direct-Planetary-Cooling-Integrated-Repository-Index)
 - [Technical Specification: Ocean Tuning Unit (OTU)](https://github.com/InchaComisho/Technical-Specification-Ocean-Tuning-Unit-OTU-)
 - [Physical Model of Ocean Tuning Unit (OTU)](https://github.com/InchaComisho/Physical-Model-of-Ocean-Tuning-Unit-OTU-)
+- [Deep-Sea-Aeration](https://github.com/InchaComisho/Deep-Sea-Aeration) — 深海エアレーションを海洋代謝再起動技術として定義する基礎リポジトリ。
+- [Deep-Sea-Aeration-Has-No-Dangerous-Risk-A-Clear-and-Complete-Explanation](https://github.com/InchaComisho/Deep-Sea-Aeration-Has-No-Dangerous-Risk-A-Clear-and-Complete-Explanation) — 深海エアレーションのリスク誤解を整理する説明リポジトリ。
+- [Ocean-Temperature-Reduction-via-Ocean-Breathing-Nanobubble-Columns-and-Ultrasonic-Mist-Shielding](https://github.com/InchaComisho/Ocean-Temperature-Reduction-via-Ocean-Breathing-Nanobubble-Columns-and-Ultrasonic-Mist-Shielding) — OBS×UMCによる海洋温度低減フレームワーク。
+- [Direct-Planetary-Cooling-via-Ocean-Breathing-Nanobubble-Columns-and-Ultrasonic-Micro-Mist-Shielding](https://github.com/InchaComisho/Direct-Planetary-Cooling-via-Ocean-Breathing-Nanobubble-Columns-and-Ultrasonic-Micro-Mist-Shielding) — OBSとUMCを組み合わせたモジュール型DPC構想。
+- [Artificial-Wisdom-and-Wa-Node-Repository-Index](https://github.com/InchaComisho/Artificial-Wisdom-and-Wa-Node-Repository-Index) — 人工叡智と和ノードのリポジトリ索引。
 
 ### NOTE Articles
 
