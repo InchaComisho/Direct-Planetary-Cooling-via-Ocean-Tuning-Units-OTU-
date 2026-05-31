@@ -1,0 +1,298 @@
+# Ocean Tuning Units（OTU）による直接惑星冷却
+
+## 2030年気候臨界点を回避するための熱力学的介入プロトコル
+
+> English version: [README.md](./README.md)
+
+> 本リポジトリは、Ocean Tuning Units（OTU：海洋調律ユニット）を用いた直接惑星冷却（Direct Planetary Cooling: DPC）の概念的ホワイトペーパーを日本語で整理したものです。ここに示す内容は、実証済みの気候工学システムや政策処方ではなく、仮説的・概念的提案です。実装には、科学的検証、生態系評価、工学的試験、段階的な海洋実証、国際的ガバナンスが必要です。
+
+## 著者・協力者
+
+**Author:** InchaComisho / inchacomusho  
+**Concept Originator:** Master  
+**Collaborators:** Google Search AI, G (OpenAI ChatGPT)  
+**Release Date:** 2026-05-07
+
+### License
+
+Full Open License  
+複製、改変、再配布、翻訳、製造、商用化、適応を許可する完全オープンライセンス。
+
+---
+
+## 概要
+
+現在の気候緩和戦略は、主に大気中CO₂濃度の削減に焦点を当てています。
+
+本ホワイトペーパーは、それを否定するものではありません。CO₂削減は引き続き必要です。
+
+しかし、地球システムにはすでに海洋熱慣性、微生物基盤の崩壊、海洋循環の弱化、炭素固定能力の低下が存在しており、排出削減だけでは回復しにくい蓄積熱と循環停止の問題が残ります。
+
+本構想は、以下を用いた代替ではなく補完的なフレームワークを提案します。
+
+```text
+Direct Planetary Cooling（DPC）
+        through
+Ocean Tuning Units（OTU）
+```
+
+OTUは、以下を利用する自律型海洋調整インフラとして構想されます。
+
+- 逆回転・螺旋型推進
+- 浮力駆動の鉛直対流
+- 微生物・プランクトン系の回復
+- 分散型熱調整
+
+OTUフレームワークは、深海静水圧の壁を低エネルギーで突破し、惑星的な鉛直循環を再構築し、地球の熱平衡回復を補助する方法を提案します。
+
+## 1. 問題提起
+
+### 線形的緩和策の限界
+
+現在の気候政策の多くは、以下に基づいています。
+
+- 排出削減
+- 炭素会計
+- 大気濃度管理
+
+これらは重要ですが、海洋と生物圏に蓄積された熱力学的遅延、すなわち**熱的潜在負荷**を見落としがちです。
+
+### 1.1 海洋の熱慣性
+
+海洋は巨大な熱貯蔵庫として機能します。
+
+仮に排出量が直ちに減少しても、以下は続きます。
+
+- 蓄積された海洋熱の大気への放出
+- 熱的な遅延フィードバック
+- 海面水温上昇による極端気象の増幅
+
+### 1.2 微生物崩壊
+
+工業型農業、単一栽培、化学肥料依存、農薬使用は、以下を劣化させてきました。
+
+- 土壌微生物圏
+- 海洋微生物ネットワーク
+- 生物学的炭素固定システム
+
+その結果、地球が本来持つ以下の能力が弱まります。
+
+- 炭素吸収
+- 熱調整
+- 生態系安定化
+- 大気バランス維持
+
+### 1.3 分母危機
+
+大気中CO₂の増加は主問題として扱われますが、本フレームワークでは、CO₂蓄積は惑星的な固定能力の低下を示す症状でもあると捉えます。
+
+真の危機は、以下の崩壊です。
+
+- 微生物生態系
+- 海洋循環
+- 植物プランクトン生産性
+- 腐植層
+- 生態系の栄養塩循環
+- 炭素固定インフラ
+
+## 2. 提案される解決策：Ocean Tuning Unit（OTU）
+
+OTUは、分散型・自律型の惑星冷却インフラとして提案されます。
+
+目的は以下です。
+
+- 海洋熱調整
+- 循環回復
+- 生態系再生
+- 直接的な惑星熱管理
+
+## 2.1 逆回転螺旋推進（IRHP）
+
+従来の深海エアレーションは、深海の静水圧に対抗するため、大きなエネルギーを必要とします。
+
+OTUは、これに対して以下を提案します。
+
+```text
+Inverse-Rotational Helical Propulsion
+```
+
+これは、アルキメデススクリュー力学、螺旋変位輸送、低速・高トルク回転伝達に基づく構想です。
+
+### 原理
+
+システムは、大気中の空気、溶存酸素、栄養を含む表層水を、深部高圧帯へ機械的に「ねじ込む」ように輸送します。
+
+### 効率
+
+この方法は、回転運動エネルギーを方向性を持つ質量輸送へ変換し、摩擦損失、圧力損失、空気圧縮の非効率を抑えることを目指します。
+
+### 機能
+
+システムは、酸素、ミネラル、循環エネルギーを無光層へ届けることで、鉛直栄養塩交換、植物プランクトン活性化、生物学的炭素固定の回復を補助する可能性があります。
+
+## 2.2 熱交換と鉛直対流
+
+### 低温深層水の上昇補助
+
+OTUは、栄養塩が豊富で比較的低温の深層水を表層へ移動させることを補助します。
+
+### 直接表層冷却
+
+この過程は、以下に寄与する可能性があります。
+
+- 海面水温（SST）の低下
+- サンゴ白化リスクの緩和
+- 海洋停滞の緩和
+- 熱成層バランスの回復
+
+### 浮力駆動型対流
+
+深部で放出されたナノバブルは、上昇中にボイルの法則に従って膨張します。
+
+この膨張により浮力が増大し、鉛直水移動を加速する可能性があります。
+
+## 3. 生物学的回復レイヤー
+
+OTUフレームワークは、微生物および植物プランクトン生態系の回復を通じて、生物学的炭素固定の補助を目指します。
+
+### 可能な生物学的対象
+
+- クロレラ
+- スピルリナ
+- 害の少ない植物プランクトン系
+- 微生物栄養塩ネットワーク
+
+### 生態学的目的
+
+海洋を、受動的な熱貯蔵庫ではなく、能動的な炭素固定器官として回復させることが目的です。
+
+## 4. 文明システムとの統合
+
+### 和ノード・ネットワーク
+
+OTUは孤立した機械ではなく、Artificial Wisdom（人工叡智）ネットワーク内の一つのノードとして構想されます。
+
+### 自律調整
+
+ノードは、和ノード・プロトコルを通じて連携し、以下を調整します。
+
+- 冷却強度
+- 循環制御
+- 生態系バランス
+- 熱調整
+
+これらは、リアルタイムの惑星代謝条件に基づいて行われます。
+
+### Genesis Plan との統合
+
+OTUフレームワークは、以下と統合され得ます。
+
+- Ultrasonic Mist Cooling Systems
+- 分散型環境インフラ
+- 地下循環ネットワーク
+- ピラミッド型再生可能エネルギーシステム
+
+これにより、完全循環型の文明運用システムを構想します。
+
+## 5. 実装タイムライン
+
+### 2030年境界
+
+本構想では、2030年前後を気候・生態系リスクが高まる境界として扱います。ただし、具体的な時期や影響は地域差があり、科学的検証が必要です。
+
+### Phase I（2026–2027）
+
+OTUプロトタイプを以下の海域で実証する構想です。
+
+- サンゴ礁地域
+- 熱帯の高水温海域
+- 海洋再生優先地域
+
+### Phase II（2028–2029）
+
+螺旋型エアレーションネットワークを拡大し、海洋熱放出、鉛直循環、炭素固定システムの安定化を検証します。
+
+### Phase III（2030+）
+
+自然補完科学に基づくガバナンスへ移行し、循環、生態安定性、惑星熱力学、長期的な文明持続性を扱います。
+
+## 6. 技術仕様と数理フレームワーク
+
+詳細な流体力学シミュレーションやEROI計算は、関連リポジトリに委ねられます。
+
+### 螺旋ピッチ最適化
+
+```text
+θ = arctan(P / 2πr)
+```
+
+### 熱変位目標
+
+```text
+ΔQ = m × c × ΔT
+```
+
+### 微生物回復率（MRR）
+
+将来的な生態安定化指標には、以下が含まれる可能性があります。
+
+- 微生物密度回復
+- プランクトン生産性回復
+- 酸素安定化率
+- 炭素固定効率
+
+## 7. 工学的意義
+
+OTUフレームワークは、空想的な物理に依存しません。
+
+以下の既存原理を統合しています。
+
+- 流体力学
+- 螺旋輸送システム
+- 浮力力学
+- テンセグリティ工学
+- 再生可能エネルギー収集
+- 微生物生態系回復
+
+新規性は、新しい自然法則の発見ではなく、システムレベルの統合にあります。
+
+## 8. 関連リポジトリ・文書
+
+### GitHub Repositories
+
+- [Direct Planetary Cooling](https://github.com/InchaComisho/Direct-Planetary-Cooling-Integrated-Repository-Index)
+- [Technical Specification: Ocean Tuning Unit (OTU)](https://github.com/InchaComisho/Technical-Specification-Ocean-Tuning-Unit-OTU-)
+- [Physical Model of Ocean Tuning Unit (OTU)](https://github.com/InchaComisho/Physical-Model-of-Ocean-Tuning-Unit-OTU-)
+
+### NOTE Articles
+
+- [Ocean Tuning Unit (OTU) Physical Implementation Protocol](https://note.com/inchacomusho/n/n067025e36085)
+- [Technical Specification: Ocean Tuning Unit (OTU)](https://note.com/inchacomusho/n/naa35a8485b35)
+
+## キーワード
+
+Direct Planetary Cooling, Ocean Tuning Unit, Deep Sea Aeration, Helical Propulsion Climate Solution, Thermodynamic Climate Intervention, Artificial Wisdom, Microbial Carbon Fixation, 2030 Climate Tipping Point, Natural Complementary Science, Genesis Plan Infrastructure, Vertical Convection Restoration, Coral Bleaching Prevention, Biomimetic Engineering, EROI Climate Action, Wa-Node Protocol, Planetary Thermal Regulation, Distributed Environmental Infrastructure, Oceanic Heat Redistribution, Marine Ecosystem Recovery
+
+## ハッシュタグ
+
+#DirectPlanetaryCooling #OceanTuningUnit #ArtificialWisdom #GenesisPlan  
+#ClimateEngineering #Thermodynamics #MicrobialRecovery #NatureComplementaryScience  
+#HelicalTechnology #FutureCivilization #EarthRestoration #DeepSeaAeration  
+#VerticalConvection #PlanetaryCooling #ClimateRestoration #MarineRestoration  
+#WaNode #EnvironmentalInfrastructure #OceanCooling
+
+## 関連リンク
+
+- [Natural-Law-Based Sustainable Future Civilization Master Plan](https://github.com/InchaComisho/Natural-Law-Based-Sustainable-Future-Civilization-Master-Plan)
+- [Direct Planetary Cooling, Artificial Wisdom, and the New Civilizational Genesis Plan](https://github.com/InchaComisho/Direct-Planetary-Cooling-Artificial-Wisdom-and-the-New-Civilizational-Genesis-Plan)
+- [Direct Planetary Cooling – Integrated Repository Index](https://github.com/InchaComisho/Direct-Planetary-Cooling-Integrated-Repository-Index)
+- [Microbial Collapse, Carbon Fixation Loss, and Planetary Breakdown – Repository Index](https://github.com/InchaComisho/Microbial-Collapse-Carbon-Fixation-Loss-and-Planetary-Breakdown-Repository-Index)
+- [Natural Complementary Science and the New Civilizational Genesis Plan – Repository Index](https://github.com/InchaComisho/Natural-Complementary-Science-and-the-New-Civilizational-Genesis-Plan-Repository-Index)
+- [Artificial Wisdom and Wa-Node – Repository Index](https://github.com/InchaComisho/Artificial-Wisdom-and-Wa-Node-Repository-Index)
+- [唯一の温暖化対策：地球直接冷却](https://note.com/inchacomusho/n/n32f7295434aa)
+- [唯一の温暖化対策・地球直接冷却：深海エアレーション × ミスト冷却が温暖化を止める唯一の安全な方法](https://note.com/inchacomusho/n/n5ab9564c6617)
+- [地球直接冷却モデル：腐葉土 × 微生物 × 多種雑草 × 気化熱 × 持続ミスト × 砂漠再生](https://note.com/inchacomusho/n/nfe290c6fca60)
+
+## 重要な注記
+
+本構想は、CO₂削減、炭素吸収源再生、生態系回復、社会的変革を置き換えるものではありません。OTUとDPCは、それらと並行して検討されるべき補完的な熱管理・循環回復レイヤーです。
