@@ -529,6 +529,12 @@ Marine Ecosystem Recovery
 #DirectPlanetaryCooling #OceanTuningUnit #ArtificialWisdom #GenesisPlan #ClimateEngineering #Thermodynamics #MicrobialRecovery #2030Deadline #NatureComplementaryScience #HelicalTechnology #FutureCivilization #EarthRestoration #DeepSeaAeration #VerticalConvection #PlanetaryCooling #ClimateRestoration #MarineRestoration #WaNode #EnvironmentalInfrastructure #OceanCooling
 
 
+## Related Repositories
+
+- [Natural-Complementary-Science](https://github.com/InchaComisho/Natural-Complementary-Science) — Core definition of Natural Complementary Science as a framework for restoring natural circulation.
+- [Coexistence-Science-and-Bio-Synthesis-Science](https://github.com/InchaComisho/Coexistence-Science-and-Bio-Synthesis-Science) — Related framework for coexistence science and bio-synthesis as natural-cycle restoration.
+- [The-Six-Principles-of-Natural-Law](https://github.com/InchaComisho/The-Six-Principles-of-Natural-Law) — Six-principle civilizational OS: Natural Law, Harmony, Circulation, Structure, Order, and Wa.
+
 ■関連リンク
 
 Natural-Law-Based Sustainable Future Civilization Master Plan  
