@@ -12,6 +12,19 @@
 > In reverse mode, it may lift cold deep water for direct sea-surface and upper-layer cooling.
 > This remains a conceptual design that requires validation of energy balance, flow control, water quality, and ecosystem impacts.
 
+The mode overview below summarizes how these functions are separated to avoid conflating aeration, cooling, diffusion, plankton support, energy recovery, and ecological safety.
+
+## OTU Mode Overview
+
+| Mode | Direction / Role | Main Function | Notes |
+|---|---|---|---|
+| Forward Aeration Mode | Downward / Deep | Aeration, oxygen supply, nanobubble-assisted circulation | Original OTU mode for ocean breathing and weak vertical mixing |
+| Reverse Cooling Mode | Upward / Surface | Cold deep-water lifting and direct sea-surface / upper-layer cooling | Operated only under high-temperature or necessary conditions |
+| Diffusion Mode | Wide-angle / Spiral | Dilution, mixing, and local concentration avoidance | Supports safe release of cold deep water and nutrients |
+| Plankton Assist Mode | Conditional / Secondary | Region-adapted non-harmful plankton recovery support | Not a universal species release; requires monitoring and validation |
+| Energy Recovery / OTEC Assist Mode | Auxiliary | Partial energy recovery and assist power | Not a complete self-powering system |
+| Eco Safe Mode | Stop / Low output | Monitoring, fail-safe control, and ecosystem protection | Stops or reduces operation under pH, DO, chlorophyll, harmful bloom, or sensor abnormality |
+
 ## Authors & Contributors
 
 **Authors:**  
