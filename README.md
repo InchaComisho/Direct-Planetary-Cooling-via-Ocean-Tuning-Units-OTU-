@@ -6,6 +6,12 @@
 
 ---
 
+> **Updated concept:**
+> OTU should be understood not only as a deep-ocean aeration device, but also as a **bidirectional spiral ocean vertical-flow tuning unit**.
+> In forward mode, it supports deep aeration, oxygen supply, and nanobubble-assisted circulation.
+> In reverse mode, it may lift cold deep water for direct sea-surface and upper-layer cooling.
+> This remains a conceptual design that requires validation of energy balance, flow control, water quality, and ecosystem impacts.
+
 ## Authors & Contributors
 
 **Authors:**  
