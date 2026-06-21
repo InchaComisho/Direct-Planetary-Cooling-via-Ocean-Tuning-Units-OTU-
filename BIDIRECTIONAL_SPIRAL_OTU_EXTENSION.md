@@ -128,6 +128,10 @@ OTU can be organized as a bidirectional mode system.
 Reverse deep-water lifting is likely to require more energy than aeration.
 Therefore, it should not be designed as continuous high-volume pumping.
 
+> Related note: In reverse deep-water surface cooling mode, energy balance is a central challenge.
+> Therefore, future design should examine energy offset using warm downflow, cold upflow, pressure differences, and OTEC-like auxiliary power.
+> See `ENERGY_RECOVERY_AND_OTEC_ASSIST.md` for details.
+
 The basic operation policy should be:
 
 * continuous operation should focus on low-power aeration, sensor monitoring, and communication control
