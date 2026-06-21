@@ -258,6 +258,10 @@ OTUフレームワークは、空想的な物理に依存しません。
 
 ## 8. 関連リポジトリ・文書
 
+### 補足文書
+
+- [深層水汲み上げとプランクトン回復補助拡張案](DEEP_WATER_UPWELLING_AND_PLANKTON_ASSIST_ja.md)
+
 ### GitHub Repositories
 
 - [Direct Planetary Cooling](https://github.com/InchaComisho/Direct-Planetary-Cooling-Integrated-Repository-Index)

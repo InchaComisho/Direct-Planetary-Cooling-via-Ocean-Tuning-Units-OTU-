@@ -411,6 +411,10 @@ rather than invention of entirely new scientific laws.
 
 # 8. Related Repositories & Documents
 
+## Supplementary Documents
+
+- [Deep-Water Upwelling and Plankton Recovery Assist Extension](DEEP_WATER_UPWELLING_AND_PLANKTON_ASSIST.md)
+
 ## GitHub Repositories
 
 ### Direct Planetary Cooling
