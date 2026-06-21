@@ -261,6 +261,7 @@ OTUフレームワークは、空想的な物理に依存しません。
 ### 補足文書
 
 - [深層水汲み上げとプランクトン回復補助拡張案](DEEP_WATER_UPWELLING_AND_PLANKTON_ASSIST_ja.md)
+- [双方向螺旋OTU拡張案：正回転送気と逆回転深層水冷却](BIDIRECTIONAL_SPIRAL_OTU_EXTENSION_ja.md)
 
 ### GitHub Repositories
 

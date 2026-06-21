@@ -11,6 +11,10 @@ This extension adds two additional conceptual functions: low-flow, wide-angle, s
 This extension is not an implemented technology.  
 It is a conceptual design proposal that requires careful validation in ocean physics, chemistry, ecology, fisheries, governance, and environmental impact assessment before any real-world deployment.
 
+> Note: This document describes deep-water lifting and plankton assistance as an OTU extension.
+> The primary purpose of the reverse-rotation deep-water mode is direct surface and upper-layer cooling using cold deep water, not the promotion of vertical convection itself.
+> Plankton assistance is secondary and optional.
+
 ---
 
 ## 1. Basic Concept

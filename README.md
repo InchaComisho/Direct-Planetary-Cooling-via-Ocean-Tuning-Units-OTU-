@@ -414,6 +414,7 @@ rather than invention of entirely new scientific laws.
 ## Supplementary Documents
 
 - [Deep-Water Upwelling and Plankton Recovery Assist Extension](DEEP_WATER_UPWELLING_AND_PLANKTON_ASSIST.md)
+- [Bidirectional Spiral OTU Extension: Forward Aeration and Reverse Deep-Water Cooling](BIDIRECTIONAL_SPIRAL_OTU_EXTENSION.md)
 
 ## GitHub Repositories
 
