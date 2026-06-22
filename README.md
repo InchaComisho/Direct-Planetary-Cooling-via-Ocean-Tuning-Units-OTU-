@@ -431,7 +431,13 @@ rather than invention of entirely new scientific laws.
 ## Related Cooling Credit Framework
 
 - [Cooling Credit Framework](https://github.com/InchaComisho/Cooling-Credit-Framework)
-  A policy and technical framework for evaluating direct planetary cooling, water-cycle restoration, urban cooling, soil moisture recovery, vegetation transpiration, and ocean circulation as measurable cooling contributions.
+  A policy and technical framework for measuring real heat-load reduction, water-cycle recovery, soil moisture restoration, vegetation transpiration, waste-heat reduction, and ocean circulation recovery as measurable cooling contributions.
+
+- [Cooling Credits Are Not Solar-Shielding Credits](https://github.com/InchaComisho/Cooling-Credit-Framework)
+  This framework distinguishes direct heat-load reduction and natural cooling recovery from solar-shielding or solar-radiation-blocking schemes.
+
+- [Cooling Credit Impact Simulation](https://github.com/InchaComisho/Cooling-Credit-Framework/tree/main/simulations/cooling_credit_impact_simulation)
+  An illustrative scenario simulation comparing Cooling Credit adoption scenarios, including integrated planetary cooling and El Niño emergency response.
 
 - [NOTE: Cooling Credit as a Climate Strategy](https://note.com/inchacomusho/n/n0f541b313ad2)
   Japanese article explaining the transition from carbon-credit-centered climate policy to a cooling-credit model that rewards actual heat reduction.

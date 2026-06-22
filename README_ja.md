@@ -314,7 +314,13 @@ Direct Planetary Cooling, Ocean Tuning Unit, Deep Sea Aeration, Helical Propulsi
 ## 関連するクーリングクレジット制度
 
 - [Cooling Credit Framework / クーリングクレジット制度設計案](https://github.com/InchaComisho/Cooling-Credit-Framework)
-  地球直接冷却、水循環再生、都市冷却、土壌保水、植生蒸散、海洋循環などの冷却効果を評価し、経済的インセンティブへ接続する制度設計案。
+  実際の熱負荷低減、水循環回復、土壌保水回復、植生蒸散、排熱削減、海洋循環回復などを、測定可能な冷却貢献として制度化するための枠組み。
+
+- [クーリングクレジットは太陽光遮蔽クレジットではない](https://github.com/InchaComisho/Cooling-Credit-Framework)
+  本フレームワークは、既存の熱負荷低減と自然冷却機能回復を、太陽光遮蔽や日射制御とは明確に区別する。
+
+- [クーリングクレジット実行シミュレーション](https://github.com/InchaComisho/Cooling-Credit-Framework/tree/main/simulations/cooling_credit_impact_simulation)
+  クーリングクレジット導入シナリオ、統合的地球冷却、エルニーニョ緊急対応を比較する概念シミュレーション。
 
 - [NOTE：クーリングクレジットという温暖化対策](https://note.com/inchacomusho/n/n0f541b313ad2)
   カーボンクレジット中心の温暖化対策から、実際に熱を下げるクーリングクレジットへの転換を説明した日本語記事。
