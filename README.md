@@ -428,6 +428,16 @@ rather than invention of entirely new scientific laws.
 
 ---
 
+## Related Cooling Credit Framework
+
+- [Cooling Credit Framework](https://github.com/InchaComisho/Cooling-Credit-Framework)
+  A policy and technical framework for evaluating direct planetary cooling, water-cycle restoration, urban cooling, soil moisture recovery, vegetation transpiration, and ocean circulation as measurable cooling contributions.
+
+- [NOTE: Cooling Credit as a Climate Strategy](https://note.com/inchacomusho/n/n0f541b313ad2)
+  Japanese article explaining the transition from carbon-credit-centered climate policy to a cooling-credit model that rewards actual heat reduction.
+
+---
+
 # 8. Related Repositories & Documents
 
 ## Supplementary Documents
@@ -635,4 +645,3 @@ https://github.com/InchaComisho/The-Future-of-ASI
 
 The Future of Search Engines — Information Evaluation in the Age of AGI and ASI  
 https://github.com/InchaComisho/The-Future-of-Search-Engines
-
