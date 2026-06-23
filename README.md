@@ -665,3 +665,12 @@ https://github.com/InchaComisho/The-Future-of-Search-Engines
 
 - [Carbon Credit to Cooling Credit](https://github.com/InchaComisho/Carbon-Credit-to-Cooling-Credit/blob/main/README.md)  
   A conceptual proposal that reframes offset-based carbon credits as book-based accounting and defines Cooling Credits as an investment framework for physically measurable heat-load reduction and planetary cooling.
+
+---
+
+## Related Cooling Credit Business Models
+
+Backlinks to Cooling Credit Framework business-model documents that are closely connected to this repository's implementation and policy design scope.
+
+- [EEZ Fishery Recovery Cooling Credit Model](https://github.com/InchaComisho/Cooling-Credit-Framework/blob/main/docs/business_models/EEZ_FISHERY_RECOVERY_COOLING_CREDIT_MODEL.md)
+- [Tourism Resource Recovery Cooling Credit Model](https://github.com/InchaComisho/Cooling-Credit-Framework/blob/main/docs/business_models/TOURISM_RESOURCE_RECOVERY_COOLING_CREDIT_MODEL.md)
