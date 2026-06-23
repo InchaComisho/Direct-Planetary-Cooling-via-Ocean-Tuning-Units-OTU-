@@ -657,3 +657,11 @@ https://github.com/InchaComisho/The-Future-of-ASI
 
 The Future of Search Engines — Information Evaluation in the Age of AGI and ASI  
 https://github.com/InchaComisho/The-Future-of-Search-Engines
+
+
+---
+
+## Related Institutional Proposal: Carbon Credit to Cooling Credit
+
+- [Carbon Credit to Cooling Credit](https://github.com/InchaComisho/Carbon-Credit-to-Cooling-Credit/blob/main/README.md)  
+  A conceptual proposal that reframes offset-based carbon credits as book-based accounting and defines Cooling Credits as an investment framework for physically measurable heat-load reduction and planetary cooling.

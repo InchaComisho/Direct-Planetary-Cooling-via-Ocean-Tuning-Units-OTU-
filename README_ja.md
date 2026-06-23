@@ -345,3 +345,11 @@ Direct Planetary Cooling, Ocean Tuning Unit, Deep Sea Aeration, Helical Propulsi
 ## 重要な注記
 
 本構想は、CO₂削減、炭素吸収源再生、生態系回復、社会的変革を置き換えるものではありません。OTUとDPCは、それらと並行して検討されるべき補完的な熱管理・循環回復レイヤーです。
+
+
+---
+
+## 関連制度提案：カーボンクレジットからクーリングクレジットへ
+
+- [カーボンクレジットからクーリングクレジットへ](https://github.com/InchaComisho/Carbon-Credit-to-Cooling-Credit/blob/main/README_ja.md)  
+  カーボンクレジットを帳簿上の相殺として整理し、クーリングクレジットを物理的な熱負荷低減に投資する地球救済ビジネスとして再定義する制度提案。
