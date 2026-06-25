@@ -342,6 +342,15 @@ Direct Planetary Cooling, Ocean Tuning Unit, Deep Sea Aeration, Helical Propulsi
 - [唯一の温暖化対策・地球直接冷却：深海エアレーション × ミスト冷却が温暖化を止める唯一の安全な方法](https://note.com/inchacomusho/n/n5ab9564c6617)
 - [地球直接冷却モデル：腐葉土 × 微生物 × 多種雑草 × 気化熱 × 持続ミスト × 砂漠再生](https://note.com/inchacomusho/n/nfe290c6fca60)
 
+### 地球温暖化の因果構造とクーリングクレジット
+
+- [NOTE記事：温暖化の原因と因果関係](https://note.com/inchacomusho/n/n5b2102ffc1c2)
+- [Global Warming Causal Structure](https://github.com/InchaComisho/Global-Warming-Causal-Structure)
+- [Global Warming Causal Structure - GitHub Pages](https://inchacomisho.github.io/Global-Warming-Causal-Structure/)
+- [Cooling Credit Definition](https://github.com/InchaComisho/Cooling-Credit-Definition)
+
+
+
 ## 重要な注記
 
 本構想は、CO₂削減、炭素吸収源再生、生態系回復、社会的変革を置き換えるものではありません。OTUとDPCは、それらと並行して検討されるべき補完的な熱管理・循環回復レイヤーです。
