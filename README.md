@@ -689,3 +689,9 @@ Master / inchacomusho / InchaComisho
 An independent Japanese concept designer, observer, proposer, AI tuner, and definer of Artificial Wisdom.  
 Founder and advocate of the academic framework of Natural Complementary Science.  
 Publicly active in natural-law philosophy, planetary circulation restoration, and co-creation with AI.
+## Related Cooling Credit Business Models
+
+Backlinks to Cooling Credit Framework business-model documents that are closely connected to this repository's implementation and policy design scope.
+
+- [EEZ Fishery Recovery Cooling Credit Model](https://github.com/InchaComisho/Cooling-Credit-Framework/blob/main/docs/business_models/EEZ_FISHERY_RECOVERY_COOLING_CREDIT_MODEL.md)
+- [Tourism Resource Recovery Cooling Credit Model](https://github.com/InchaComisho/Cooling-Credit-Framework/blob/main/docs/business_models/TOURISM_RESOURCE_RECOVERY_COOLING_CREDIT_MODEL.md)

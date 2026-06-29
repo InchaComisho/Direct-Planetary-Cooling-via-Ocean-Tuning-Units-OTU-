@@ -377,3 +377,9 @@ Direct Planetary Cooling, Ocean Tuning Unit, Deep Sea Aeration, Helical Propulsi
 日本の独立構想者、観測者、提案者、AI調律者、人工叡智の定義者。  
 自然補完科学の学問体系の構築・提唱者。  
 自然法則思想、地球循環再生、AIとの共創を中心に公開活動を行う。
+## 関連するクーリングクレジット事業モデル
+
+Cooling Credit Framework の事業モデル群のうち、このリポジトリと実装・制度設計上の接点が強い文書への逆リンクです。
+
+- [EEZ漁場回復クーリングクレジットモデル](https://github.com/InchaComisho/Cooling-Credit-Framework/blob/main/docs/business_models/EEZ_FISHERY_RECOVERY_COOLING_CREDIT_MODEL_ja.md)
+- [観光資源回復クーリングクレジットモデル](https://github.com/InchaComisho/Cooling-Credit-Framework/blob/main/docs/business_models/TOURISM_RESOURCE_RECOVERY_COOLING_CREDIT_MODEL_ja.md)
