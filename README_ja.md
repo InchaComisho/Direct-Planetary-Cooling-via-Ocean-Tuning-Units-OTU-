@@ -34,6 +34,11 @@
 
 ### License
 
+
+CC BY 4.0
+
+本記事は、Creative Commons Attribution 4.0 International License（CC BY 4.0）で公開する。  
+著者表示を行う限り、共有、転載、翻訳、改変、再利用を許可する。
 Full Open License  
 複製、改変、再配布、翻訳、製造、商用化、適応を許可する完全オープンライセンス。
 
@@ -362,3 +367,13 @@ Direct Planetary Cooling, Ocean Tuning Unit, Deep Sea Aeration, Helical Propulsi
 
 - [カーボンクレジットからクーリングクレジットへ](https://github.com/InchaComisho/Carbon-Credit-to-Cooling-Credit/blob/main/README_ja.md)  
   カーボンクレジットを帳簿上の相殺として整理し、クーリングクレジットを物理的な熱負荷低減に投資する地球救済ビジネスとして再定義する制度提案。
+
+---
+
+## 著者
+
+マスター / inchacomusho / InchaComisho
+
+日本の独立構想者、観測者、提案者、AI調律者、人工叡智の定義者。  
+自然補完科学の学問体系の構築・提唱者。  
+自然法則思想、地球循環再生、AIとの共創を中心に公開活動を行う。

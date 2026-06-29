@@ -201,3 +201,22 @@ This insight expands OTU from a deep-ocean aeration device into a broader ocean-
 
 However, real-world implementation requires validation of energy balance, flow control, water quality monitoring, ecosystem impacts, stop conditions, and region-specific suitability.
 This remains a conceptual design and requires stepwise validation before any real-world deployment.
+
+---
+
+## Author
+
+Master / inchacomusho / InchaComisho
+
+An independent Japanese concept designer, observer, proposer, AI tuner, and definer of Artificial Wisdom.  
+Founder and advocate of the academic framework of Natural Complementary Science.  
+Publicly active in natural-law philosophy, planetary circulation restoration, and co-creation with AI.
+
+---
+
+## License
+
+CC BY 4.0
+
+This article is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0).  
+Sharing, redistribution, translation, adaptation, and reuse are permitted as long as proper attribution is given.
