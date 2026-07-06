@@ -2,6 +2,8 @@
 
 # Direct Planetary Cooling via Ocean Tuning Units (OTU)
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M6J122N2K2)
+
 ## A Thermodynamic Intervention Protocol to Avert 2030 Climatic Tipping Points
 
 ---

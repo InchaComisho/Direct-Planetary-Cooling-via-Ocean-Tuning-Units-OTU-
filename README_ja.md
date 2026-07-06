@@ -1,5 +1,7 @@
 # Ocean Tuning Units（OTU）による直接惑星冷却
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M6J122N2K2)
+
 ## 2030年気候臨界点を回避するための熱力学的介入プロトコル
 
 > English version: [README.md](./README.md)
