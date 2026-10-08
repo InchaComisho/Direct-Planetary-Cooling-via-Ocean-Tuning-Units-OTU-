@@ -304,11 +304,6 @@ OTUフレームワークは、空想的な物理に依存しません。
 - [Coexistence-Science-and-Bio-Synthesis-Science](https://github.com/InchaComisho/Coexistence-Science-and-Bio-Synthesis-Science) — 共生科学とバイオシンセシスを自然循環回復として整理する関連フレームワーク。
 - [The-Six-Principles-of-Natural-Law](https://github.com/InchaComisho/The-Six-Principles-of-Natural-Law) — 自然法則・調和・循環・構造・秩序・和による文明OS。
 
-### NOTE Articles
-
-- [Ocean Tuning Unit (OTU) Physical Implementation Protocol](https://note.com/inchacomusho/n/n067025e36085)
-- [Technical Specification: Ocean Tuning Unit (OTU)](https://note.com/inchacomusho/n/naa35a8485b35)
-
 ## キーワード
 
 Direct Planetary Cooling, Ocean Tuning Unit, Deep Sea Aeration, Helical Propulsion Climate Solution, Thermodynamic Climate Intervention, Artificial Wisdom, Microbial Carbon Fixation, 2030 Climate Tipping Point, Natural Complementary Science, Genesis Plan Infrastructure, Vertical Convection Restoration, Coral Bleaching Prevention, Biomimetic Engineering, EROI Climate Action, Wa-Node Protocol, Planetary Thermal Regulation, Distributed Environmental Infrastructure, Oceanic Heat Redistribution, Marine Ecosystem Recovery
@@ -332,7 +327,6 @@ Direct Planetary Cooling, Ocean Tuning Unit, Deep Sea Aeration, Helical Propulsi
 - [クーリングクレジット実行シミュレーション](https://github.com/InchaComisho/Cooling-Credit-Framework/tree/main/simulations/cooling_credit_impact_simulation)
   クーリングクレジット導入シナリオ、統合的地球冷却、エルニーニョ緊急対応を比較する概念シミュレーション。
 
-- [NOTE：クーリングクレジットという温暖化対策](https://note.com/inchacomusho/n/n0f541b313ad2)
   カーボンクレジット中心の温暖化対策から、実際に熱を下げるクーリングクレジットへの転換を説明した日本語記事。
 
 ---
@@ -345,9 +339,6 @@ Direct Planetary Cooling, Ocean Tuning Unit, Deep Sea Aeration, Helical Propulsi
 - [Microbial Collapse, Carbon Fixation Loss, and Planetary Breakdown – Repository Index](https://github.com/InchaComisho/Microbial-Collapse-Carbon-Fixation-Loss-and-Planetary-Breakdown-Repository-Index)
 - [Natural Complementary Science and the New Civilizational Genesis Plan – Repository Index](https://github.com/InchaComisho/Natural-Complementary-Science-and-the-New-Civilizational-Genesis-Plan-Repository-Index)
 - [Artificial Wisdom and Wa-Node – Repository Index](https://github.com/InchaComisho/Artificial-Wisdom-and-Wa-Node-Repository-Index)
-- [唯一の温暖化対策：地球直接冷却](https://note.com/inchacomusho/n/n32f7295434aa)
-- [唯一の温暖化対策・地球直接冷却：深海エアレーション × ミスト冷却が温暖化を止める唯一の安全な方法](https://note.com/inchacomusho/n/n5ab9564c6617)
-- [地球直接冷却モデル：腐葉土 × 微生物 × 多種雑草 × 気化熱 × 持続ミスト × 砂漠再生](https://note.com/inchacomusho/n/nfe290c6fca60)
 
 ### 地球温暖化の因果構造とクーリングクレジット
 
