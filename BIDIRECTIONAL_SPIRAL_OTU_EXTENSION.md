@@ -1,4 +1,7 @@
 # Bidirectional Spiral OTU Extension
+
+[日本語版はこちら / Japanese version](BIDIRECTIONAL_SPIRAL_OTU_EXTENSION_ja.md)
+
 ## Forward Aeration and Reverse Deep-Water Cooling for Ocean Vertical-Flow Tuning
 
 ## Overview

@@ -1,4 +1,7 @@
 # 双方向螺旋OTU拡張案
+
+[English Version](BIDIRECTIONAL_SPIRAL_OTU_EXTENSION.md)
+
 ## 正回転送気と逆回転深層水冷却による海洋鉛直流の調律
 
 ## 概要

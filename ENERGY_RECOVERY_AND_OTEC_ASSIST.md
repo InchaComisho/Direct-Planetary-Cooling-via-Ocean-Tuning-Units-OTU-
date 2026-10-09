@@ -1,4 +1,7 @@
 # Energy Recovery and OTEC Assist Extension
+
+[日本語版はこちら / Japanese version](ENERGY_RECOVERY_AND_OTEC_ASSIST_ja.md)
+
 ## Auxiliary Power Architecture Using Warm Downflow, Cold Deep-Water Upflow, and Ocean Thermal Difference
 
 ## Overview

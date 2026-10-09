@@ -1,4 +1,7 @@
 # エネルギー回収とOTEC補助拡張案
+
+[English Version](ENERGY_RECOVERY_AND_OTEC_ASSIST.md)
+
 ## 温水下降流・深層冷水上昇流・海洋温度差を利用したOTU補助電源構想
 
 ## 概要

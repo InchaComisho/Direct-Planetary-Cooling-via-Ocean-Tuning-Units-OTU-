@@ -1,5 +1,7 @@
 # [Technical Whitepaper]
 
+[日本語版はこちら / Japanese version](README_ja.md)
+
 # Direct Planetary Cooling via Ocean Tuning Units (OTU)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M6J122N2K2)

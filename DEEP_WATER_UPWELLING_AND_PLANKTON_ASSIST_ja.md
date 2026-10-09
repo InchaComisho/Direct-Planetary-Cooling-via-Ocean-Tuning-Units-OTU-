@@ -1,5 +1,7 @@
 # 深層水汲み上げとプランクトン回復補助拡張案
 
+[English Version](DEEP_WATER_UPWELLING_AND_PLANKTON_ASSIST.md)
+
 ## OTUを「送気装置」から「海洋鉛直循環調律ユニット」へ
 
 Ocean Tuning Unit（OTU）は、単なる深海送気装置ではなく、海洋の鉛直循環を補助する調律ユニットとして拡張できる。

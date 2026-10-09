@@ -1,5 +1,7 @@
 # Deep-Water Upwelling and Plankton Recovery Assist Extension
 
+[日本語版はこちら / Japanese version](DEEP_WATER_UPWELLING_AND_PLANKTON_ASSIST_ja.md)
+
 ## From an Aeration Device to an Ocean Vertical Circulation Tuning Unit
 
 The Ocean Tuning Unit (OTU) should not be limited to a deep-ocean aeration device.  
