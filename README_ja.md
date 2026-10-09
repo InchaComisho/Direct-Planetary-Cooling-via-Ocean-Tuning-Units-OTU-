@@ -4,7 +4,7 @@
 
 ## 2030年気候臨界点を回避するための熱力学的介入プロトコル
 
-> English version: [README.md](./README.md)
+> English version: [README.md](./README_ja.md)
 
 > 本リポジトリは、Ocean Tuning Units（OTU：海洋調律ユニット）を用いた直接惑星冷却（Direct Planetary Cooling: DPC）の概念的ホワイトペーパーを日本語で整理したものです。ここに示す内容は、実証済みの気候工学システムや政策処方ではなく、仮説的・概念的提案です。実装には、科学的検証、生態系評価、工学的試験、段階的な海洋実証、国際的ガバナンスが必要です。
 
